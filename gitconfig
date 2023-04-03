@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rukun.jobhunting@gmail.com
+	name = Rukun ZHANG
